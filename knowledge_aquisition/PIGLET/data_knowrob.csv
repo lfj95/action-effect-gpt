@@ -1,0 +1,11 @@
+verb,verb_ontology,noun,noun_ontology
+open,"intrinsic state change event, object state from closed to open.",bag,packaging container product.
+bake,"heating process, a physical transformation event, cooking food, dough inputs destroyed, baked outputs created.",box,spatial thing type by shape.
+boil,"the min temperature for process is 100, used the device burner, boiled outputs created.",chairs,person-supporting furniture.
+chop,cut in pieces.,cup,drinking vessel.
+close,"intrinsic state change event, object state from open to closed.",door,doorway covering.
+cook,"heating process, preparing food or drink, use a heat source, cooked outputs created.",drawer,storage construct.
+crack,"separation event, preparing food or drink.",egg,Food.
+cut,separation event.,meat,"meat or legume food, perishable."
+mix,"incorporation physical, sub-action of adding something and stirring.",soup,"food, liquid tangible thing."
+stir,preparing food or drink.,,
