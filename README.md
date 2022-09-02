@@ -1,2 +1,2 @@
 # action-effect-gpt
-Files for paper 'Combining Commonsense Knowledge Bases with Pre-trained Language Models for Enhancing Reasoning about Action Effect'
+Files for paper 'Ontology Knowledge-enhanced In-Context Learning for Action-Effect Prediction'
